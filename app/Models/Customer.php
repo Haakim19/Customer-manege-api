@@ -17,7 +17,7 @@ class Customer extends Model
         'address',
         'city',
         'state',
-        'postalCode',
+        'postal_code',
     ];
     public function invoices()
     {
